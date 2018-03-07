@@ -1,2 +1,2 @@
 # STM32F407VG
-CubeMX,FreeRTOS,LwIP
+CubeMX,FreeRTOS,LwIP,RMII Ethernet.
